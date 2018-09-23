@@ -8,6 +8,8 @@
 #               to be encrypted. The user will then be prompted to enter an encryption key.
 #               Crypto will return the text, encrypted based on the Vigenere Cipher.
 #
+# File:         vigenere.py - This file contains main method for Crypto
+#
 # -----------------------------------------------------------------------------------------
 
 

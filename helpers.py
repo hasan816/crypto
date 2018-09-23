@@ -1,3 +1,18 @@
+# -----------------------------------------------------------------------------------------
+#
+# Program:      CRYPTO - A encryption program based on the Vigenere Cipher
+#
+# Author:       Hasan Abdulhamid
+#
+# Description:  Cryto is a command-line program. It prompts the user to enter text
+#               to be encrypted. The user will then be prompted to enter an encryption key.
+#               Crypto will return the text, encrypted based on the Vigenere Cipher.
+#
+# File:         helpers.py - This file contains helper modules for vigenere.py
+#
+# -----------------------------------------------------------------------------------------
+
+
 import string
 
 upper = string.ascii_uppercase
